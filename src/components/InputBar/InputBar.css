@@ -1,0 +1,41 @@
+.input {
+    display: flex;
+    width: 50%;
+    position: relative;
+    align-items: center;
+}
+
+.inputField {
+    width: 100%;
+    border-radius: 50px;
+    padding: 20px 30px;
+    font-size: 25px;
+    border: none;
+    transition: 0.2s;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.739);
+}
+
+.submit-button {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    margin: 12px;
+    border-radius: 50px;
+    right: 0px;
+    border: none;
+    font-size: 15px;
+    background-color: #388ae2;
+    color: white;
+    transition: 0.2s all;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.517);
+    cursor: pointer;
+}
+
+.submit-button:hover {
+    background-color: #60a5ee;
+}
+
+.submit-button:active {
+    transform: scale(0.8);
+    box-shadow: 0 0 5px black;
+}

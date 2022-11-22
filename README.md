@@ -9,6 +9,8 @@ A React js web application that helps students to create a to do list for daily 
 
 
 
-<img src="/todo-image.png" height="500"> 
+<img src="./images/lightMode.png" height="500"> 
+<img src="./images/darkMode.png" height="500"> 
+
 
                             
