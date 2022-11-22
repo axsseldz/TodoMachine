@@ -11,7 +11,7 @@ Light Mode             |  Dark Mode
 ## Get Started
 Get your own organized environment with TodoMachine
 
-1. Clone this reposity and run:
+1. Clone this repository and run:
 ```sh
 npm install
 ```
