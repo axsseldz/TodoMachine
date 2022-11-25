@@ -15,7 +15,7 @@ Get your own organized environment with TodoMachine
 ```sh
 npm install
 ```
-2. Run the bot:
+2. Run the web app:
 ```sh
 npm run start
 ```
