@@ -12,7 +12,18 @@
     font-size: 25px;
     border: none;
     transition: 0.2s;
-    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.739);
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.739);
+}
+
+.inputField-night {
+    width: 100%;
+    border-radius: 50px;
+    padding: 20px 30px;
+    font-size: 25px;
+    border: none;
+    transition: 0.2s;
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.739);
+    background-color: #23272f;
 }
 
 .submit-button {
@@ -27,7 +38,7 @@
     background-color: #388ae2;
     color: white;
     transition: 0.2s all;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.517);
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.517);
     cursor: pointer;
 }
 
