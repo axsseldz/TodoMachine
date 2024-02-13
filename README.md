@@ -8,16 +8,5 @@ Light Mode             |  Dark Mode
 :-------------------------:|:-------------------------:
 ![](./images/lightMode.png)  |  ![](./images/darkMode.png)
 
-## Get Started
-Get your own organized environment with TodoMachine
-
-1. Clone this repository and run:
-```sh
-npm install
-```
-2. Run the web app:
-```sh
-npm run start
-```
 
                             
